@@ -3,7 +3,7 @@ data_siswa = {'nama':'bejo',
         'UAS':80, 
         'lulus':True, 
         'hobi':['maen','belajar']}
-data_tambahan = {'bidang minat':'data science',
+data_tambahan = {'bidang minat':'cyber secyruty',
         'bahasa pemrogaraman':'python'}
 
 
